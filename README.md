@@ -85,7 +85,7 @@ Please read our latest [project contribution guide][5].
 
 ## Getting involved
 
-Even if you do not plan to contribute to Apache Arrow itself or Arrow
+Even if you do not plan to contribute to Apache Arrow itself or Arrow22
 integrations in other projects, we'd be happy to have you involved:
 
 - Join the mailing list: send an email to11
