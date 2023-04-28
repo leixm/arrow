@@ -88,7 +88,7 @@ Please read our latest [project contribution guide][5].
 Even if you do not plan to contribute to Apache Arrow itself or Arrow
 integrations in other projects, we'd be happy to have you involved:
 
-- Join the mailing list: send an email to
+- Join the mailing list: send an email to11
   [dev-subscribe@arrow.apache.org][1]. Share your ideas and use cases for the
   project.
 - Follow our activity on [GitHub issues][3]
